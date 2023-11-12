@@ -9,3 +9,25 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+body {
+    background-color: aquamarine;
+}
+header {
+    background-color: darkgoldenrod;
+}
+footer {
+    background-color: darkgoldenrod;
+}
+h1 {
+    text-align: center;
+}
+p {
+    color: rebeccapurple;
+    font-style: italic;
+    }
+img {
+    border: inset;
+}
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
